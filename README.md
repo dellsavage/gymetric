@@ -27,6 +27,10 @@ attendance visibility, and day-to-day gym interaction.
   <img src="./screenshots/mobile-member-dashboard-3.png" width="30%" alt="Gymetric mobile member dashboard navigation and workout tools" />
 </p>
 
+## System Overview
+
+![Gymetric system overview](./diagrams/system-overview.png)
+
 ## Why I’m Building It
 
 Many fitness businesses rely on disconnected tools for scheduling,

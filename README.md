@@ -31,6 +31,12 @@ attendance visibility, and day-to-day gym interaction.
 
 ![Gymetric system overview](./diagrams/system-overview.png)
 
+For a more detailed breakdown, see the
+[Architecture Documentation](./docs/architecture.md).
+
+For details about tenant isolation and data scoping, see the
+[Multi-Tenancy Documentation](./docs/multi-tenancy.md).
+
 ## Why I’m Building It
 
 Many fitness businesses rely on disconnected tools for scheduling,

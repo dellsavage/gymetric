@@ -78,6 +78,9 @@ Gymetric is actively being developed. The production source repository is
 private, but this repository documents the product, architecture, and
 engineering decisions.
 
+For current priorities and planned product phases, see the
+[Development Roadmap](./docs/roadmap.md).
+
 ## My Role
 
 I designed and developed the product architecture, web interface, mobile
